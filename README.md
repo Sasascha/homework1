@@ -3,6 +3,8 @@
 
 ### 作業介紹：ETF爬蟲請參閱web_scraping檔，財金指標爬蟲參閱CBOE_putcall_ratio檔
 
+### 作業介紹：Omega ratio為財金績效評比介紹
+
 ### Folder introduction
 * Combine_data：放整合的資料
 * data：爬homepage載下來的資料
