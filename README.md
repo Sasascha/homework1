@@ -1,4 +1,15 @@
 # HW1
+
+### Folder introduction
+* Combine_data：放整合的資料
+* data：爬homepage載下來的資料
+* data_yahoo：yahoo finance抓下來到今天的資料 
+* data_yahoo2：yahoo finance抓下來到2018年底的資料 
+* CBOE_putcall_ratio：財金指標爬蟲
+* ETF_dic.pkl：存ETF資料
+* P:C_Ratio_Result：財金指標爬蟲成果圖
+* web_scraping.ipynb：爬ETF主程式
+
 ### Required packages
 * pandas：讀入csv, excel 資料、做時間過濾及處理
 * numpy：用來做資料確認（看看是否有NAN資料非常多的ETF）
