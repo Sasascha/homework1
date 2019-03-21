@@ -1,4 +1,7 @@
 # HW1
+### 小組成員 r07723031 沙育民 r07922125 羅偉倫 b04702077 徐嬿鎔
+
+### 作業介紹：ETF爬蟲請參閱web_scraping檔，財金指標爬蟲參閱CBOE_putcall_ratio檔
 
 ### Folder introduction
 * Combine_data：放整合的資料
@@ -8,7 +11,7 @@
 * CBOE_putcall_ratio：財金指標爬蟲
 * ETF_dic.pkl：存ETF資料
 * P:C_Ratio_Result：財金指標爬蟲成果圖
-* web_scraping.ipynb：爬ETF主程式
+* web_scraping：爬ETF主程式
 
 ### Required packages
 * pandas：讀入csv, excel 資料、做時間過濾及處理
